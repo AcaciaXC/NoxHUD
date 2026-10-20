@@ -99,3 +99,6 @@ If you encounter a bug, open a **GitHub Issue** with your Windows version, CPU, 
 ---
 
 **NoxHUD — Keep your performance in sight.**
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2XVyf8x/1.png" alt="1" border="0"></a>
+
