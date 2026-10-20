@@ -1,4 +1,7 @@
 # NoxHUD
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2XVyf8x/1.png" alt="1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TCPDn18/2.png" alt="2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/fGQLMw7y/3.png" alt="3" border="0"></a> <a href="https://imgbb.com/"><img src="https://i.ibb.co/kg5b8j1s/4.png" alt="4" border="0"></a>
 
 **Lightweight real-time FPS and hardware monitoring overlay for Windows.**
 
@@ -99,6 +102,4 @@ If you encounter a bug, open a **GitHub Issue** with your Windows version, CPU, 
 ---
 
 **NoxHUD — Keep your performance in sight.**
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2XVyf8x/1.png" alt="1" border="0"></a>
 
