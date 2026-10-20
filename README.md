@@ -94,7 +94,7 @@ NoxHUD incorporates or works with monitoring technology including:
 
 - [PresentMon](https://github.com/GameTechDev/PresentMon)
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
-- 
+- See the distributed release for applicable third-party notices and licenses.
 ________________________________________
 ## NoxHUD SHA256
 ________________________________________
@@ -109,8 +109,7 @@ D637A123C2615A23263A43AA46EDFEEC702D847D2FD2B28F6B1F74976E12583C
 ________________________________________
 FILE: PawnIO_setup.exe
 1F519A22E47187F70A1379A48CA604981C4FCF694F4E65B734AAA74A9FBA3032
-
-See the distributed release for applicable third-party notices and licenses.
+________________________________________
 
 ## Support
 
