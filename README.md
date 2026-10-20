@@ -94,20 +94,19 @@ NoxHUD incorporates or works with monitoring technology including:
 
 - [PresentMon](https://github.com/GameTechDev/PresentMon)
 - [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
-
-========================================
-         NoxHUD SHA256
-========================================
-----------------------------------------
+- 
+________________________________________
+## NoxHUD SHA256
+________________________________________
 FILE: NoxHUD.exe
-707F95C83B386E2E8E7791408352EDE47AF6C6D63BE89CB8FE233F5ADFBED08C
-----------------------------------------
+7707F95C83B386E2E8E7791408352EDE47AF6C6D63BE89CB8FE233F5ADFBED08C
+________________________________________
 FILE: NoxHUD_AutoBridge.exe
 7F358D2679473E2FEAA3F2606404684D2DAC3CD2DAC24EA84925E8D7135DA51F
-----------------------------------------
+________________________________________
 FILE: NoxCpuSensor.exe
 D637A123C2615A23263A43AA46EDFEEC702D847D2FD2B28F6B1F74976E12583C
-----------------------------------------
+________________________________________
 FILE: PawnIO_setup.exe
 1F519A22E47187F70A1379A48CA604981C4FCF694F4E65B734AAA74A9FBA3032
 
