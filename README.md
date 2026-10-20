@@ -1,6 +1,6 @@
 # NoxHUD
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2XVyf8x/1.png" alt="1" border="0"></a><br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/TCPDn18/2.png" alt="2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/TCPDn18/2.png" alt="2" border="0"></a><br>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/k2XVyf8x/1.png" alt="1" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/fGQLMw7y/3.png" alt="3" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/kg5b8j1s/4.png" alt="4" border="0"></a>
 
