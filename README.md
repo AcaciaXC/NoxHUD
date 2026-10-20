@@ -74,6 +74,7 @@ The first launch may take slightly longer while monitoring components initialize
 
 **Temperature or GPU usage is missing**
 
+- Make sure PawnIO is installed.
 - Update your GPU drivers.
 - Check whether your hardware exposes the requested sensor.
 - Note that some sensors require additional privileges or compatible low-level components.
